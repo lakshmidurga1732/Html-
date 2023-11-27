@@ -1,0 +1,51 @@
+body {
+    background-image: url('C:\Users\Lakshmidurga\OneDrive\Desktop\html\hexaware\Assignment-12\images\city_logo.png');
+    background-color: #f0f0f0; /* Fallback color */
+    background-blend-mode: overlay;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  nav {
+    background-color: #444;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  nav li {
+    float: left;
+  }
+  
+  nav a {
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: #fff;
+  }
+  
+  nav a:hover {
+    background-color: #ddd;
+    color: #333;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+  }
+  
